@@ -1,7 +1,6 @@
 ##William Sutton CIS261 Rectangle
 #
-#
-#
+
 
 
 class Rectangle:
